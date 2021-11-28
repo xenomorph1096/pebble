@@ -23,9 +23,9 @@ import (
 
 	"github.com/miekg/dns"
 
-	"github.com/letsencrypt/challtestsrv"
-	"github.com/letsencrypt/pebble/acme"
-	"github.com/letsencrypt/pebble/core"
+	"github.com/xenomorph1096/challtestsrv"
+	"github.com/xenomorph1096/pebble/acme"
+	"github.com/xenomorph1096/pebble/core"
 )
 
 const (
