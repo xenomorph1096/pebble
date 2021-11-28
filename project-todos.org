@@ -1,0 +1,6 @@
+* TODO Add multisig creation and addition to certs
+  DEADLINE: <2021-11-29 Mon 06:00>
+** TODO Add address creation
+   DEADLINE: <2021-11-28 Sun 16:00>
+** TODO Integrate Bitocoin wallet library into pebble
+   DEADLINE: <2021-11-28 Sun 14:30>
