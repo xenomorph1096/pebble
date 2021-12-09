@@ -12,7 +12,7 @@ import (
 	"strings"
 
 	"github.com/letsencrypt/challtestsrv"
-	"github.com/letsencrypt/pebble/cmd"
+	"github.com/xenomorph1096/pebble/cmd"
 )
 
 // managementServer is a small HTTP server that can control a challenge server,
